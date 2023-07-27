@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkLTZ4dimVmyZ4SNWXJ+a9J1okz/gyLFhcqt1hrKQZU93WzOdani46Poz3L3TK9tKgGu0dj9zd8EpKsYjRve9g==",
+  "dgSpecHash": "X7gRhuPUKifHHEvoFPwOjakb/uhyK401jcwWEqIKkR5fLos5ggJOX8v5/alLCxYHq8e251YSkicxklxwJXpyVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sadin\\RiderProjects\\Counter\\Counter\\Counter.csproj",
+  "projectFilePath": "C:\\Users\\sadin\\RiderProjects\\GitHub\\Counter\\Counter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sadin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\sadin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
