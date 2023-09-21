@@ -25,4 +25,9 @@ public class Counter
     {
         _running = false;
     }
+    
+    public void Stop1()
+    {
+        _running = false;
+    }
 }
